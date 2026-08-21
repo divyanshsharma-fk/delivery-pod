@@ -1,0 +1,9 @@
+{
+  "name": "Delivery POD",
+  "short_name": "POD",
+  "description": "Proof of Delivery App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f3f6",
+  "theme_color": "#2874f0"
+}
