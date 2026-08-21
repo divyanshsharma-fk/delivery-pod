@@ -1,5 +1,5 @@
 const API_URL =
-  "https://script.google.com/a/macros/flipkart.com/s/AKfycbzyFO4Z_lYfZ2pH0kpCe-taBJmhTxS3tWC2Yo3ON3q8Qy1PHHYYawAuNNnLZ-x_ese7Mg/exec";
+  "https://script.google.com/macros/s/AKfycbyqrrnWqkx8zbv4HLt7h3SqqdMtz2DaWil1ucFguZrb_bm5YkSD_HKulsQR0KZoPCel/exec";
 
 async function callAPI(action, data = {}) {
   const response = await fetch(API_URL, {
